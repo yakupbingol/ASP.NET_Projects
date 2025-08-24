@@ -1,0 +1,12 @@
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\bin\Debug\AdonetCustomer.exe.config
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\bin\Debug\AdonetCustomer.exe
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\bin\Debug\AdonetCustomer.pdb
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.csproj.AssemblyReference.cache
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.Properties.Resources.resources
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.csproj.GenerateResource.cache
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.exe
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.pdb
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.FrmCity.resources
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.FrmMap.resources
+C:\Users\Msi\Belgeler\BTK_C++_Derslerim\MyProjects20\AdonetCustomer\obj\Debug\AdonetCustomer.FrmCustomer.resources

@@ -1,0 +1,15 @@
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\bin\Debug\EntityFrameworkStatistics.exe.config
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\bin\Debug\EntityFrameworkStatistics.exe
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\bin\Debug\EntityFrameworkStatistics.pdb
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFrameworkStatistics.csproj.AssemblyReference.cache
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFrameworkStatistics.Properties.Resources.resources
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFrameworkStatistics.csproj.GenerateResource.cache
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFrameworkStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFrameworkStatistics.exe
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFrameworkStatistics.pdb
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFrameworkStatistics.Form1.resources
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\bin\Debug\EntityFramework.dll
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\bin\Debug\EntityFramework.xml
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Msi\Belgeler\Udemy_MuratYucedag\MyProjects20\EntityFrameworkStatistics\obj\Debug\EntityFr.207C08E0.Up2Date
